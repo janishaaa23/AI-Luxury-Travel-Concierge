@@ -97,7 +97,3 @@ If you encounter any issues:
 ## Support
 
 For support or questions, please [create an issue](https://github.com/yourusername/your-repo/issues) in the repository.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
