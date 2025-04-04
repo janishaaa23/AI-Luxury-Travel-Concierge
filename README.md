@@ -5,10 +5,15 @@ An intelligent chatbot that provides personalized luxury travel recommendations 
 ## Features
 
 ✔️Personalized luxury travel recommendations
+
 ✔️High-end hotel and accommodation suggestions
+
 ✔️Exclusive travel experiences and activities
+
 ✔️Real-time flight and booking information
+
 ✔️Customized travel itineraries
+
 ✔️Premium dining recommendations
 
 ## Setup Instructions
